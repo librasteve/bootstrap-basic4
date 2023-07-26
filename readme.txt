@@ -1,3 +1,15 @@
+***bootstrap-basic4 (git fork)
+
+- Local new site - 'sassy'
+- cd LocalSites/sassy/app/public/wp-content/themes/
+- git clone https://github.com/librasteve/bootstrap-basic4.git && cd
+- composer update
+- npm init
+- npm install
+- npm run watch
+- wp admin find && activate bootstrap-basic4 theme
+
+
 === Bootstrap Basic4 ===
 Contributors: okvee, christianoliff
 Tags: one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-menu, post-formats, threaded-comments, translation-ready
