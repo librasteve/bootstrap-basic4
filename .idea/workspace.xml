@@ -1,6 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11c89a1d-f126-47a9-86f6-7eb6f221840b" name="Changes" comment="update project files">
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/bootstrap/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/comments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/content-fullsingle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/content-header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/content-index-nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/content-jetpack-portfolio.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/content-jetpack-testimonial.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/content-page-fullwidth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/content-page-nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/content-page-posts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/content-page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/content-post-footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/content-post-header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/content-post-nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/content-recent-posts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/content-single.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/content-siteindex.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/css/editor-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/css/theme-base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/css/theme-flat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/flat-bootstrap-child/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/flat-bootstrap-child/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/flat-bootstrap-child/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/flat-bootstrap-child/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/html5/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/html5/html5shiv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/html5/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/images/arrow1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/images/arrow2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/images/headers/abstract-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/images/headers/abstract.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/images/headers/book-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/images/headers/book.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/images/headers/briefcase-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/images/headers/briefcase.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/images/headers/camera-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/images/headers/camera.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/images/headers/city-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/images/headers/city.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/images/headers/desk-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/images/headers/desk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/images/headers/guitar-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/images/headers/guitar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/images/headers/notepad-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/images/headers/notepad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/images/headers/skyline-thumbnail.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/images/headers/skyline.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/images/post-thumbnail-default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/inc/bootstrap-navmenu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/inc/class-tgm-plugin-activation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/inc/custom-header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/inc/customizer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/inc/extras.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/inc/jetpack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/inc/template-tags.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/inc/theme-functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/inc/xsbf-plugin-recommendations.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/jquerymobile/jquery.mobile.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/jquerymobile/jquery.mobile.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/js/customizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/js/keyboard-image-navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/js/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/languages/da_DK.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/languages/da_DK.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/languages/es_ES.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/languages/es_ES.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/languages/flat-bootstrap.pot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/languages/fr_FR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/languages/fr_FR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/no-results.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/page-fullpostsnoheader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/page-fullwidth-noheader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/page-fullwidth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/page-fullwithposts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/page-fullwithsubpages.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/page-leftsidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/page-nosidebar-noheader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/page-nosidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/page-siteindex.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/searchform.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/sidebar-footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/sidebar-home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/sidebar-left.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/sidebar-pagebottom.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/sidebar-pagetop.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/single-fullwidth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/single-jetpack-portfolio.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/single-jetpack-testimonial.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/single.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/style-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flat-bootstrap/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
   </component>
 </project>
