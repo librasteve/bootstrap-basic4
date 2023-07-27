@@ -1,0 +1,43 @@
+/*
+Styles on no-sidebar2 using CSS grid
+*/
+/* Add custom CSS styles for your template here */
+
+.my-container {
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr 3fr; /* Sidebar takes 1 part, Main content takes 3 parts */
+    grid-template-rows: auto 1fr auto; /* Header and Footer adjust to content, Main content takes remaining space */
+    grid-template-areas:
+    "my-header my-header"
+    "my-sidebar my-main"
+    "my-footer my-footer";
+    min-height: 80vh;
+    justify-items: stretch;
+    align-items: start;
+}
+
+.my-header {
+    grid-area: my-header;
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+.my-sidebar {
+    grid-area: my-sidebar;
+    background-color: #d6e9f9;
+    padding: 10px;
+}
+
+.my-main {
+    grid-area: my-main;
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.my-footer {
+    grid-area: my-footer;
+    background-color: #f2f2f2;
+    padding: 10px;
+}

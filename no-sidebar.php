@@ -25,14 +25,14 @@ get_header();
 <main id="main" class="site-main" role="main">
     <div class="container custom-container">
         <div class="row custom-row">
-            <div class="col-md-6 custom-column custom-column">
+            <div class="col-md-6 custom-column">
                 <div class="custom-content">
                     <!-- Content for the first column -->
                     <h2>Column 1</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                 </div>
             </div>
-            <div class="col-md-6 custom-column custom-column">
+            <div class="col-md-6 custom-column">
                 <div class="custom-content">
                     <!-- Content for the second column -->
                     <h2>Column 2</h2>
