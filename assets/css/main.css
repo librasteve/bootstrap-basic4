@@ -4,6 +4,7 @@ Theme's main style.
 @author Vee W.
 */
 @import 'flexvideo.css';
+@import 'no-sidebar.css';
 
 
 .pagination {
