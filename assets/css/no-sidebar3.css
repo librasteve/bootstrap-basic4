@@ -1,0 +1,22 @@
+/*
+Styles on no-sidebar2 using CSS grid
+*/
+/* Add custom CSS styles for your template here */
+
+
+
+.bd-highlight {
+    background-color: rgba(86,61,124,.15);
+    border: 1px solid rgba(86,61,124,.15);
+}
+
+.bd-example {
+    width:1000px;
+    height:400px;
+    padding: 1.5rem;
+    margin-right: 0;
+    margin-left: 0;
+    border-width: .2rem;
+    position: relative;
+    border: solid #f7f7f9;
+}
