@@ -24,15 +24,15 @@ get_header();
 
 <main id="main" class="site-main" role="main">
     <div class="container custom-container">
-        <div class="row">
-            <div class="col-md-6">
+        <div class="row custom-row">
+            <div class="col-md-6 custom-column custom-column">
                 <div class="custom-content">
                     <!-- Content for the first column -->
                     <h2>Column 1</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 custom-column custom-column">
                 <div class="custom-content">
                     <!-- Content for the second column -->
                     <h2>Column 2</h2>
@@ -41,22 +41,22 @@ get_header();
             </div>
         </div>
 
-        <div class="row">
-            <div class="col-md-4">
+        <div class="row custom-row">
+            <div class="col-md-4 custom-column">
                 <div class="custom-content">
                     <!-- Content for the third column -->
                     <h2>Column 3</h2>
                     <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.</p>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 custom-column">
                 <div class="custom-content">
                     <!-- Content for the fourth column -->
                     <h2>Column 4</h2>
                     <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 custom-column">
                 <div class="custom-content">
                     <!-- Content for the fifth column -->
                     <h2>Column 5</h2>

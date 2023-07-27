@@ -127,7 +127,7 @@
       <change afterPath="$PROJECT_DIR$/../flat-bootstrap/single.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../flat-bootstrap/style-rtl.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../flat-bootstrap/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/no-sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/no-sidebar.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
